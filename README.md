@@ -38,6 +38,8 @@ Criar um Front-end e um Back-end para alcanças os seguintes objetivos:
   consumo da API deve ser de forma síncrona.
   Os dados após o processamento devem ser exibidos na tela.
 
+- No Back-end deve conter testes automatizados
+
 ## Resultado Final
 
 ![image](https://user-images.githubusercontent.com/78332530/146692522-90e3ea00-ae02-4771-ba7f-1ce3a2333a66.jpg)
